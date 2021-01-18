@@ -1,0 +1,20 @@
+{
+  "name": "fsd-frontend-challenge",
+  "version": "1.0.0",
+  "description": "Challenge that helps to assess your software designing skills",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0"
+  },
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:once": "jest"
+  },
+  "author": "FSD",
+  "license": "ISC"
+}
